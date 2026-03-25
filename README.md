@@ -16,3 +16,7 @@ Create a quick pivot table as a sanity check for delay between collection date a
 ![pivottable](imgs/pivottable_segment_difference_year.png)
 
 Yup, as time goes on, the delay between collection and release gets smaller (angle down) regardless of S or L segment (avoid double counting).
+
+Rough check of average delay in the last 5, 10, 20 years and all time. Not fit to any model, just counting. A model method may account for more uncertainty and be more accurate. This is only a sanity check.
+
+![average delay](imgs/averagedelay.png)
